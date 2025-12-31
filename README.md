@@ -1,9 +1,4 @@
-## Hello, I'm Nicholas 🙌
-
-∮ Actuarial Studies @ Unimelb <br/>
-∴ I want create Python-driven simulation tools and automated risk-management pipelines <br/>
-⋀ Humbly starting with projecteuler.net <br/>
-
+## Hello World, I'm Nicholas
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
